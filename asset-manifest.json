@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-search-bar/static/css/main.319b67a2.chunk.css",
+    "main.js": "/react-search-bar/static/js/main.2ae6cc5b.chunk.js",
+    "main.js.map": "/react-search-bar/static/js/main.2ae6cc5b.chunk.js.map",
+    "runtime-main.js": "/react-search-bar/static/js/runtime-main.1bbddbaf.js",
+    "runtime-main.js.map": "/react-search-bar/static/js/runtime-main.1bbddbaf.js.map",
+    "static/js/2.c2a893ac.chunk.js": "/react-search-bar/static/js/2.c2a893ac.chunk.js",
+    "static/js/2.c2a893ac.chunk.js.map": "/react-search-bar/static/js/2.c2a893ac.chunk.js.map",
+    "index.html": "/react-search-bar/index.html",
+    "precache-manifest.f4f993ecb732fb8cf538a7f57d0d746d.js": "/react-search-bar/precache-manifest.f4f993ecb732fb8cf538a7f57d0d746d.js",
+    "service-worker.js": "/react-search-bar/service-worker.js",
+    "static/css/main.319b67a2.chunk.css.map": "/react-search-bar/static/css/main.319b67a2.chunk.css.map",
+    "static/js/2.c2a893ac.chunk.js.LICENSE.txt": "/react-search-bar/static/js/2.c2a893ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bbddbaf.js",
+    "static/js/2.c2a893ac.chunk.js",
+    "static/css/main.319b67a2.chunk.css",
+    "static/js/main.2ae6cc5b.chunk.js"
+  ]
+}
